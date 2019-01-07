@@ -52,7 +52,6 @@ As published at https://www.fatpick.com/printables/pentatonic-scale-patterns-bas
 
    * [`pentatonic-scale-patterns-bass-a4.pdf`](https://github.com/FATpick/printables/blob/master/pentatonic-scale-patterns-bass-a4.pdf) - [printable poster of major and minor pentatonic scale patterns for bass](https://www.fatpick.com/printables/pentatonic-scale-patterns-bass-a4.pdf) - as above, but formatted for A4 paper/
 
+---
 
-
-
-
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
