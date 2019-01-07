@@ -1,5 +1,7 @@
 # printable stuff for guitar/bass
 
+Also [here](https://www.fatpick.com/printables).
+
 ## Blank Tab Pages
 
 As published at https://www.fatpick.com/printables/blank-tabs.
@@ -41,6 +43,14 @@ For 5-string instruments like the banjo or 5-string bass guitar.
 
    * [`bass-tab-ls-a4.pdf`](https://github.com/FATpick/printables/blob/master/bass-tab-lst-a4.pdf) - [blank 4-string bass/ukulele tab paper - A4 paper format - portrait orientation](https://www.fatpick.com/printables/bass-5str-tab-ls-a4.pdf)
 
+
+## Pentatonic Scale Poster for Bass Guitar
+
+As published at https://www.fatpick.com/printables/pentatonic-scale-patterns-bass.
+
+   * [`pentatonic-scale-patterns-bass-lt.pdf`](https://github.com/FATpick/printables/blob/master/pentatonic-scale-patterns-bass-lt.pdf) - [printable poster of major / minor pentatonic scale positions for bass](https://www.fatpick.com/printables/pentatonic-scale-patterns-bass) - US letter paper.
+
+   * [`pentatonic-scale-patterns-bass-a4.pdf`](https://github.com/FATpick/printables/blob/master/pentatonic-scale-patterns-bass-a4.pdf) - [printable poster of major and minor pentatonic scale patterns for bass](https://www.fatpick.com/printables/pentatonic-scale-patterns-bass-a4.pdf) - as above, but formatted for A4 paper/
 
 
 
