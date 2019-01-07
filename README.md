@@ -1,2 +1,48 @@
-# printables
-Free printable templates for guitar/bass
+# printable stuff for guitar/bass
+
+## Blank Tab Pages
+
+As published at https://www.fatpick.com/printables/blank-tabs.
+
+### Blank Six-String Tablature Paper
+
+For 6-string instruments like the guitar.
+
+ * [`guitar-tab-pt-lr.pdf`](https://github.com/FATpick/printables/blob/master/guitar-tab-pt-lr.pdf) - [blank 6-string guitar tab paper - us letter format - portrait orientation](https://www.fatpick.com/printables/guitar-tab-pt-lr.pdf)
+
+ * [`guitar-tab-ls-lr.pdf`](https://github.com/FATpick/printables/blob/master/guitar-tab-ls-lt.pdf) - [blank 6-string guitar tab paper - us letter format - landscape orientation](https://www.fatpick.com/printables/guitar-tab-ls-lt.pdf)
+
+ * [`guitar-tab-pt-a4.pdf`](https://github.com/FATpick/printables/blob/master/guitar-tab-pt-a4.pdf) - [blank 6-string guitar tab paper - A4 paper format - portrait orientation](https://www.fatpick.com/printables/guitar-tab-pt-a4.pdf)
+
+ * [`guitar-tab-ls-a4.pdf`](https://github.com/FATpick/printables/blob/master/guitar-tab-lst-a4.pdf) - [blank 6-string guitar tab paper - A4 paper format - portrait orientation](https://www.fatpick.com/printables/guitar-tab-ls-a4.pdf)
+ 
+ ### Blank Five-String Tablature Paper
+
+For 5-string instruments like the banjo or 5-string bass guitar.
+
+  * [`bass-5str-tab-pt-lr.pdf`](https://github.com/FATpick/printables/blob/master/bass-5str-tab-pt-lr.pdf) - [blank 5-string bass/banjo tab paper - us letter format - portrait orientation](https://www.fatpick.com/printables/bass-5str-tab-pt-lr.pdf)
+
+  * [`bass-5str-tab-ls-lr.pdf`](https://github.com/FATpick/printables/blob/master/bass-5str-tab-ls-lt.pdf) - [blank 5-string bass/banjo tab paper - us letter format - landscape orientation](https://www.fatpick.com/printables/bass-5str-tab-ls-lt.pdf)
+
+  * [`bass-5str-tab-pt-a4.pdf`](https://github.com/FATpick/printables/blob/master/bass-5str-tab-pt-a4.pdf) - [blank 5-string bass/banjo tab paper - A4 paper format - portrait orientation](https://www.fatpick.com/printables/bass-5str-tab-pt-a4.pdf)
+
+  * [`bass-5str-tab-ls-a4.pdf`](https://github.com/FATpick/printables/blob/master/bass-5str-tab-lst-a4.pdf) - [blank 5-string bass/banjo tab paper - A4 paper format - portrait orientation](https://www.fatpick.com/printables/bass-5str-tab-ls-a4.pdf)
+
+  
+  ### Blank Four-String Tablature Paper
+
+  For 4-string instruments like the bass guitar or ukulele.
+
+   * [`bass-tab-pt-lr.pdf`](https://github.com/FATpick/printables/blob/master/bass-tab-pt-lr.pdf) - [blank 4-string bass/ukulele tab paper - us letter format - portrait orientation](https://www.fatpick.com/printables/bass-tab-pt-lr.pdf)
+
+   * [`bass-tab-ls-lr.pdf`](https://github.com/FATpick/printables/blob/master/bass-tab-ls-lt.pdf) - [blank 4-string bass/ukulele tab paper - us letter format - landscape orientation](https://www.fatpick.com/printables/bass-tab-ls-lt.pdf)
+
+   * [`bass-tab-pt-a4.pdf`](https://github.com/FATpick/printables/blob/master/bass-tab-pt-a4.pdf) - [blank 4-string bass/ukulele tab paper - A4 paper format - portrait orientation](https://www.fatpick.com/printables/bass-tab-pt-a4.pdf)
+
+   * [`bass-tab-ls-a4.pdf`](https://github.com/FATpick/printables/blob/master/bass-tab-lst-a4.pdf) - [blank 4-string bass/ukulele tab paper - A4 paper format - portrait orientation](https://www.fatpick.com/printables/bass-5str-tab-ls-a4.pdf)
+
+
+
+
+
+
