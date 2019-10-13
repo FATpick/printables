@@ -102,8 +102,27 @@ These posters are also available from the [Pentatonic-Scale Patterns for Bass](h
 
 ---
 
+## About [FATpick](https://www.fatpick.com/)
+
+FATpick is an [interactive tab player](https://www.fatpick.com/learn-to-play-guitar) that provides real-time feedback on your timing and accuracy as you play along to real songs with any guitar or bass.
+
+Choose any song from FATpick's library or custom songs by your favorite artists.  FATpick will render any musical score in an easy-to-use tablature view, synchronized with customizable backing tracks that ensures your practice time remains satisfying, engaging and fun.
+
+FATpick evaluates your performance as you play, offering real-time feedback that helps you improve your performance immediately, trend analysis to help you practice more effectively, personal records that help you track your progress over time and leaderboards by which you can compete with friends or FATpick users all over the world. 
+
+
+FATpick is powered in part by songs transcribed and shared by users. [You can browse some of the songs shared by the FATpick community here.](https://www.fatpick.com/tabs)
+We are pleased to offer these templates, charts and diagrams under a [CC-BY license](http://creativecommons.org/licenses/by/3.0/) as one small way of giving back and saying &ldquo;Thank you!&rdquo; to the guitar community.
+
+Visit us at FATpick.com to [download FATpick for free](https://www.fatpick.com/support/downloads), or to [contact our support team](https://www.fatpick.com/support) with any questions you may have, or just to learn more about us.
+
+---
+
+![FATpick - the tab player that listens](https://raw.githubusercontent.com/FATpick/printables/master/fatpick-brw-166x60.png)
+
 ![](https://i.creativecommons.org/l/by/3.0/88x31.png)
 
 Content in this repository is copyright &copy; 2018 - 2019 by FATpick LLC and
 made licensed under the
 [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+
