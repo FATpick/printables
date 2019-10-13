@@ -15,10 +15,10 @@ FATpick.com.
 
 Learn the placement of notes on the guitar neck with these colorful charts.
 
-<!-- ![](https://www.fatpick.com/printables/guitar-and-bass-fretboards.png) -->
-
 Working knowledge of where to find each note on the fretboard is invaluable,
 but these charts will help you make the most of your instrument by helping you visualize the _patterns_ by which these notes are related.
+
+![](https://raw.githubusercontent.com/FATpick/printables/master/guitar-and-bass-fretboards.png)
 
   * [Guitar Fretboard Chart](https://www.fatpick.com/printables/guitar-fretboard-lt.pdf) for US letter-sized paper.
   * [Guitar Fretboard Chart](https://www.fatpick.com/printables/guitar-fretboard-a4.pdf) for A4-sized paper.
@@ -33,7 +33,7 @@ Also available from the [Guitar and Bass Fretboard Diagrams](https://www.fatpick
 
 Tablature is an alternative to the traditional staff-notation representation of music that is especially well-suited for stringed instruments.
 
-<!-- ![](https://www.fatpick.com/ca/c-maj-guitar-tab-630x139.png) -->
+![](https://raw.githubusercontent.com/FATpick/printables/master/c-maj-guitar-tab.png)
 
 Each line in a tablature score represents a string on the guitar. Notes in the song are represented by numbers indicating which fret and string should used to play the note.
 
@@ -92,7 +92,6 @@ Blank tab templates for five-string instruments like the banjo or five-string ba
 ## Pentatonic Scale Poster for Bass Guitar
 
 The pentatonic scale is a five-note subset of the major scale that is often heard in the bass-line of rock, jazz, and blues songs. The scale can broken down into five overlapping “box patterns” — each containing all of the notes of the scale. Each pattern connects to the one after it. By linking the patterns you can play the scale up and down the entire fretboard.
-
 
  * [`pentatonic-scale-patterns-bass-lt.pdf`](https://github.com/FATpick/printables/blob/master/pentatonic-scale-patterns-bass-lt.pdf) - [printable poster of major / minor pentatonic scale positions for bass](https://www.fatpick.com/printables/pentatonic-scale-patterns-bass) - US letter paper.
 
