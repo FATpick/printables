@@ -5,7 +5,7 @@ This repository contains a collection of printable templates, reference charts,
 and mini-posters for musicians that play guitar, bass guitar, ukulele or other
 stringed instruments.
 
-<!-- ![](https://www.fatpick.com/img/fatpick-brw-166x60.png) -->
+![](https://raw.githubusercontent.com/FATpick/printables/master/fatpick-brw-166x60.png)
 
 This collection is also available on the
 [Free Guitar & Bass Resources](https://www.fatpick.com/printables) page at
