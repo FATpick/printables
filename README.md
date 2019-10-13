@@ -77,17 +77,17 @@ Blank tab templates for four-string instruments like the bass or ukulele.
   * [`bass-tab-ls-a4.pdf`](https://github.com/FATpick/printables/blob/master/bass-tab-lst-a4.pdf) - [blank 4-string bass/ukulele tab paper - A4 paper format - portrait orientation](https://www.fatpick.com/printables/bass-5str-tab-ls-a4.pdf)
 
 
-  ### Bass Guitar or Banjo (5-String) Tablature
+### Bass Guitar or Banjo (5-String) Tablature
 
-  Blank tab templates for five-string instruments like the banjo or five-string bass.
+Blank tab templates for five-string instruments like the banjo or five-string bass.
 
-    * [`bass-5str-tab-pt-lr.pdf`](https://github.com/FATpick/printables/blob/master/bass-5str-tab-pt-lr.pdf) - [blank 5-string bass/banjo tab paper - us letter format - portrait orientation](https://www.fatpick.com/printables/bass-5str-tab-pt-lr.pdf)
+  * [`bass-5str-tab-pt-lr.pdf`](https://github.com/FATpick/printables/blob/master/bass-5str-tab-pt-lr.pdf) - [blank 5-string bass/banjo tab paper - us letter format - portrait orientation](https://www.fatpick.com/printables/bass-5str-tab-pt-lr.pdf)
 
-    * [`bass-5str-tab-ls-lr.pdf`](https://github.com/FATpick/printables/blob/master/bass-5str-tab-ls-lt.pdf) - [blank 5-string bass/banjo tab paper - us letter format - landscape orientation](https://www.fatpick.com/printables/bass-5str-tab-ls-lt.pdf)
+  * [`bass-5str-tab-ls-lr.pdf`](https://github.com/FATpick/printables/blob/master/bass-5str-tab-ls-lt.pdf) - [blank 5-string bass/banjo tab paper - us letter format - landscape orientation](https://www.fatpick.com/printables/bass-5str-tab-ls-lt.pdf)
 
-    * [`bass-5str-tab-pt-a4.pdf`](https://github.com/FATpick/printables/blob/master/bass-5str-tab-pt-a4.pdf) - [blank 5-string bass/banjo tab paper - A4 paper format - portrait orientation](https://www.fatpick.com/printables/bass-5str-tab-pt-a4.pdf)
+  * [`bass-5str-tab-pt-a4.pdf`](https://github.com/FATpick/printables/blob/master/bass-5str-tab-pt-a4.pdf) - [blank 5-string bass/banjo tab paper - A4 paper format - portrait orientation](https://www.fatpick.com/printables/bass-5str-tab-pt-a4.pdf)
 
-    * [`bass-5str-tab-ls-a4.pdf`](https://github.com/FATpick/printables/blob/master/bass-5str-tab-lst-a4.pdf) - [blank 5-string bass/banjo tab paper - A4 paper format - portrait orientation](https://www.fatpick.com/printables/bass-5str-tab-ls-a4.pdf)
+  * [`bass-5str-tab-ls-a4.pdf`](https://github.com/FATpick/printables/blob/master/bass-5str-tab-lst-a4.pdf) - [blank 5-string bass/banjo tab paper - A4 paper format - portrait orientation](https://www.fatpick.com/printables/bass-5str-tab-ls-a4.pdf)
 
 ## Pentatonic Scale Poster for Bass Guitar
 
