@@ -1,9 +1,11 @@
 --------------------------------------------------------------------------------
-FATpick/printables (c) 2018 - 2019 by FATpick LLC.
+FATpick/printables 
+Copyright (c) 2018 - 2019 by FATpick LLC.
+https://www.fatpick.com/printables
 --------------------------------------------------------------------------------
-Except where otherwise stated, FATpick/printables is licensed under a
-Creative Commons Attribution 3.0 Unported License. You should have received a
-copy of the license along with this work. If not, see
+Except where otherwise stated, FATpick/printables is licensed under a Creative 
+Commons Attribution 3.0 Unported License. You should have received a copy of the
+license along with this work. If not, see
 <http://creativecommons.org/licenses/by/3.0/>.
 --------------------------------------------------------------------------------
 FATpick, the guitar tab player that listens
@@ -330,3 +332,4 @@ Creative Commons Notice
     Creative Commons may be contacted at https://creativecommons.org/.
 
 --------------------------------------------------------------------------------
+FATpick - the guitar tab player that listens - https://www.fatpick.com/
