@@ -5,7 +5,7 @@ This repository contains a collection of printable templates, reference charts,
 and mini-posters for musicians that play guitar, bass guitar, ukulele or other
 stringed instruments.
 
-![](https://www.fatpick.com/img/fatpick-brw-166x60.png)
+<!-- ![](https://www.fatpick.com/img/fatpick-brw-166x60.png) -->
 
 This collection is also available on the
 [Free Guitar & Bass Resources](https://www.fatpick.com/printables) page at
@@ -15,7 +15,7 @@ FATpick.com.
 
 Learn the placement of notes on the guitar neck with these colorful charts.
 
-![](https://www.fatpick.com/printables/guitar-and-bass-fretboards.png)
+<!-- ![](https://www.fatpick.com/printables/guitar-and-bass-fretboards.png) -->
 
 Working knowledge of where to find each note on the fretboard is invaluable,
 but these charts will help you make the most of your instrument by helping you visualize the _patterns_ by which these notes are related.
@@ -33,7 +33,7 @@ Also available from the [Guitar and Bass Fretboard Diagrams](https://www.fatpick
 
 Tablature is an alternative to the traditional staff-notation representation of music that is especially well-suited for stringed instruments.
 
-![](https://www.fatpick.com/ca/c-maj-guitar-tab-630x139.png)
+<!-- ![](https://www.fatpick.com/ca/c-maj-guitar-tab-630x139.png) -->
 
 Each line in a tablature score represents a string on the guitar. Notes in the song are represented by numbers indicating which fret and string should used to play the note.
 
