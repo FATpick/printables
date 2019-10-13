@@ -1,15 +1,20 @@
-
 # Free guitar and bass guitar resources
 
 This repository contains a collection of printable templates, reference charts,
 and mini-posters for musicians that play guitar, bass guitar, ukulele or other
 stringed instruments.
 
-![](https://raw.githubusercontent.com/FATpick/printables/master/fatpick-brw-166x60.png)
+## Contents
+
+* [Fretboard Charts](#guitar-and-bass-fretboard-charts)
+* [Blank Tab Templates](#blank-tablature-templates)
+* [Pentatonic Scale Patterns](#major-and-minor-pentatonic-scale-poster)
 
 This collection is also available on the
 [Free Guitar & Bass Resources](https://www.fatpick.com/printables) page at
 FATpick.com.
+
+![FATpick - the tab player that listens](https://raw.githubusercontent.com/FATpick/printables/master/fatpick-brw-166x60.png)
 
 ## Guitar and Bass Fretboard Charts
 
@@ -18,8 +23,6 @@ Learn the placement of notes on the guitar neck with these colorful charts.
 Working knowledge of where to find each note on the fretboard is invaluable,
 but these charts will help you make the most of your instrument by helping you visualize the _patterns_ by which these notes are related.
 
-![](https://raw.githubusercontent.com/FATpick/printables/master/guitar-and-bass-fretboards.png)
-
   * [Guitar Fretboard Chart](https://www.fatpick.com/printables/guitar-fretboard-lt.pdf) for US letter-sized paper.
   * [Guitar Fretboard Chart](https://www.fatpick.com/printables/guitar-fretboard-a4.pdf) for A4-sized paper.
   * [Bass Fretboard Chart](https://www.fatpick.com/printables/bass-fretboard-lt.pdf) for US letter-sized paper.
@@ -27,7 +30,9 @@ but these charts will help you make the most of your instrument by helping you v
   * Combined [Guitar and Bass Fretboard Charts](https://www.fatpick.com/printables/guitar-and-bass-fretboard-lt.pdf) for US letter-sized paper.
   * Combined [Guitar and Bass Fretboard Charts](https://www.fatpick.com/printables/guitar-and-bass-fretboard-lt.pdf) for A4-sized paper.
 
-Also available from the [Guitar and Bass Fretboard Diagrams](https://www.fatpick.com/printables/fretboard) page at FATpick.com.
+![](https://raw.githubusercontent.com/FATpick/printables/master/guitar-and-bass-fretboards.png)
+
+These charts are also available from the [*Guitar and Bass Fretboard Diagrams*](https://www.fatpick.com/printables/fretboard) page at FATpick.com.
 
 ## Blank Tablature Templates
 
@@ -49,7 +54,7 @@ E|---8---10-----------------------------|
 We've prepared blank tab templates in wide variety of formats that you can print
 out and use to transcribe songs by ear, when "translating" a song from traditional sheet music, when transcribing parts to a new instrument or a new tuning or when working out your own compositions.
 
-These templates are also available from the [Guitar and Bass Tablature Templates](https:/www.fatpick.com/printables/blank-tabs) page at FATpick.com.
+These templates are also available from the [*Printable Guitar and Bass Tablature Templates*](https:/www.fatpick.com/printables/blank-tabs) page at FATpick.com.
 
 
 ### Guitar (6-String) Tablature
@@ -89,7 +94,7 @@ Blank tab templates for five-string instruments like the banjo or five-string ba
 
   * [`bass-5str-tab-ls-a4.pdf`](https://github.com/FATpick/printables/blob/master/bass-5str-tab-lst-a4.pdf) - [blank 5-string bass/banjo tab paper - A4 paper format - portrait orientation](https://www.fatpick.com/printables/bass-5str-tab-ls-a4.pdf)
 
-## Pentatonic Scale Poster for Bass Guitar
+## Major and Minor Pentatonic Scale Poster
 
 The pentatonic scale is a five-note subset of the major scale that is often heard in the bass-line of rock, jazz, and blues songs. The scale can broken down into five overlapping “box patterns” — each containing all of the notes of the scale. Each pattern connects to the one after it. By linking the patterns you can play the scale up and down the entire fretboard.
 
@@ -97,8 +102,7 @@ The pentatonic scale is a five-note subset of the major scale that is often hear
 
  * [`pentatonic-scale-patterns-bass-a4.pdf`](https://github.com/FATpick/printables/blob/master/pentatonic-scale-patterns-bass-a4.pdf) - [printable poster of major and minor pentatonic scale patterns for bass](https://www.fatpick.com/printables/pentatonic-scale-patterns-bass-a4.pdf) - as above, but formatted for A4 paper
 
-
-These posters are also available from the [Pentatonic-Scale Patterns for Bass](https://www.fatpick.com/printables/pentatonic-scale-patterns-bass) page at FATpick.com.
+These posters are also available from the [*Pentatonic-Scale Patterns Mini-Poster*](https://www.fatpick.com/printables/pentatonic-scale-patterns-bass) page at FATpick.com.
 
 ---
 
@@ -109,7 +113,6 @@ FATpick is an [interactive tab player](https://www.fatpick.com/learn-to-play-gui
 Choose any song from FATpick's library or custom songs by your favorite artists.  FATpick will render any musical score in an easy-to-use tablature view, synchronized with customizable backing tracks that ensures your practice time remains satisfying, engaging and fun.
 
 FATpick evaluates your performance as you play, offering real-time feedback that helps you improve your performance immediately, trend analysis to help you practice more effectively, personal records that help you track your progress over time and leaderboards by which you can compete with friends or FATpick users all over the world. 
-
 
 FATpick is powered in part by songs transcribed and shared by users. [You can browse some of the songs shared by the FATpick community here.](https://www.fatpick.com/tabs)
 We are pleased to offer these templates, charts and diagrams under a [CC-BY license](http://creativecommons.org/licenses/by/3.0/) as one small way of giving back and saying &ldquo;Thank you!&rdquo; to the guitar community.
